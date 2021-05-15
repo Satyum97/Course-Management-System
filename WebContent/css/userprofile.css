@@ -1,0 +1,77 @@
+.main-card
+{   
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: rgb(252, 250, 250);
+    border-radius: 5px;
+    overflow: hidden; 
+    padding: 10px; 
+}
+
+.bg
+{
+    padding: 5%;
+    overflow: auto; 
+}
+
+.userphoto
+{
+    height: 175px;
+    width: 175px;
+    padding: 1%;
+}
+
+.userprofile
+{
+    margin: 20%;
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 4%;
+    border-color: #000;
+    border-radius: 10px;
+}
+
+.name
+{
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.emailaddr
+{
+    line-height: 25px;
+    font-size: 15px;
+}
+
+.username
+{
+    text-align: center;
+    padding-bottom: 4%;
+    border-bottom: 1.5px solid #000;
+    color: #000;
+}
+
+#myprofile
+{
+    background-color: #f8bbd0;
+}
+
+#add
+{
+    cursor: pointer;
+}
+
+.mdl-data-table__cell--non-numeric, .numeric
+{
+    text-align: center;
+}
+
+.main-card1
+{
+    padding: 1%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: rgb(252, 250, 250);
+    border-radius: 5px;
+}
+
